@@ -1,1082 +1,1082 @@
 [
-  {
-    "name": "FM 100 Pakistan",
-    "streamUrl": "http://162.244.80.118:4900/;stream.mp3",
-    "website": "http://fm100pakistan.com/",
-    "logo": "http://fm100pakistan.com/favicon.ico",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 1,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.244.80.118:4900/;stream.mp3": 32
-    },
-    "mirrorBitrates": []
+ {
+  "name": "FM 100 Pakistan",
+  "streamUrl": "http://162.244.80.118:4900/;stream.mp3",
+  "website": "http://fm100pakistan.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm100.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 1,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.244.80.118:4900/;stream.mp3": 32
   },
-  {
-    "name": "Hot FM 105",
-    "streamUrl": "http://172.93.237.106:8000/listen.mp3",
-    "website": "http://www.hotfm.com.pk/home.php",
-    "logo": "http://www.hotfm.com.pk/favicon.ico",
-    "bitrate": 64,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 2,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://172.93.237.106:8000/listen.mp3": 64
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Hot FM 105",
+  "streamUrl": "http://172.93.237.106:8000/listen.mp3",
+  "website": "http://www.hotfm.com.pk/home.php",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/hotfm.png",
+  "bitrate": 64,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 2,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://172.93.237.106:8000/listen.mp3": 64
   },
-  {
-    "name": "Radio Pakistan Multan MW",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8034/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 3,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8034/stream": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Multan MW",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8034/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 3,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8034/stream": 96
   },
-  {
-    "name": "Radio Pakistan Islamabad",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7003/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 4,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7003/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Islamabad",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7003/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 4,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7003/stream": 128
   },
-  {
-    "name": "FM 100 Pakistan Islamabad",
-    "streamUrl": "http://162.244.80.118:4900/stream.mp3?ver=604498",
-    "website": "http://fm100pakistan.com/",
-    "logo": "http://fm100pakistan.com/favicon.ico",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 5,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.244.80.118:4900/stream.mp3?ver=604498": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 100 Pakistan Islamabad",
+  "streamUrl": "http://162.244.80.118:4900/stream.mp3?ver=604498",
+  "website": "http://fm100pakistan.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm100.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 5,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.244.80.118:4900/stream.mp3?ver=604498": 32
   },
-  {
-    "name": "FM 100 Pakistan Karachi",
-    "streamUrl": "http://162.244.80.118:3024/stream.mp3?ver=349829",
-    "website": "http://fm100pakistan.com/",
-    "logo": "http://fm100pakistan.com/favicon.ico",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 6,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.244.80.118:3024/stream.mp3?ver=349829": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 100 Pakistan Karachi",
+  "streamUrl": "http://162.244.80.118:3024/stream.mp3?ver=349829",
+  "website": "http://fm100pakistan.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm100.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 6,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.244.80.118:3024/stream.mp3?ver=349829": 32
   },
-  {
-    "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 7,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 7,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12": 96
   },
-  {
-    "name": "FM 93 Rawalpindi",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8036/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 8,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8036/relay": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Rawalpindi",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8036/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 8,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8036/relay": 128
   },
-  {
-    "name": "Radio Pakistan World Service",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7005/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 9,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7005/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan World Service",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7005/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 9,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7005/stream": 128
   },
-  {
-    "name": "Hum FM 106.2",
-    "streamUrl": "https://server.mediacast4u.stream/8002/stream",
-    "website": "https://www.1062.fm/",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfsXeLHe8pcIRbGUSr7KczIjjpiMiGNh101nywFkEQkHmz1yKAftWRL06&s=10",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 10,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://server.mediacast4u.stream/8002/stream": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Hum FM 106.2",
+  "streamUrl": "https://server.mediacast4u.stream/8002/stream",
+  "website": "https://www.1062.fm/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/humfm.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 10,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://server.mediacast4u.stream/8002/stream": 96
   },
-  {
-    "name": "Radio Pakistan Hyderabad MW 1008 KHz",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8042/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 11,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8042/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Hyderabad MW 1008 KHz",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8042/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 11,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8042/stream": 128
   },
-  {
-    "name": "HOT FM Karachi",
-    "streamUrl": "http://172.93.237.106:8000/",
-    "website": "http://www.hotfm.com.pk/home.php",
-    "logo": "http://www.hotfm.com.pk/favicon.ico",
-    "bitrate": 64,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 12,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://172.93.237.106:8000/": 64
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "HOT FM Karachi",
+  "streamUrl": "http://172.93.237.106:8000/",
+  "website": "http://www.hotfm.com.pk/home.php",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/hotfm.png",
+  "bitrate": 64,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 12,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://172.93.237.106:8000/": 64
   },
-  {
-    "name": "FM 100 Pakistan Hyderabad",
-    "streamUrl": "http://162.244.80.118:3024/stream.mp3?ver=517748",
-    "website": "http://fm100pakistan.com/",
-    "logo": "http://fm100pakistan.com/favicon.ico",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "sindhi",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 13,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.244.80.118:3024/stream.mp3?ver=517748": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 100 Pakistan Hyderabad",
+  "streamUrl": "http://162.244.80.118:3024/stream.mp3?ver=517748",
+  "website": "http://fm100pakistan.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm100.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "sindhi",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 13,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.244.80.118:3024/stream.mp3?ver=517748": 32
   },
-  {
-    "name": "FM 93 Lahore",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8088/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 14,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8088/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Lahore",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8088/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 14,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8088/stream": 128
   },
-  {
-    "name": "FM 100 Pakistan Gujrat",
-    "streamUrl": "http://162.244.80.118:4900/stream.mp3?ver=682776",
-    "website": "http://fm100pakistan.com/",
-    "logo": "http://fm100pakistan.com/favicon.ico",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 15,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.244.80.118:4900/stream.mp3?ver=682776": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 100 Pakistan Gujrat",
+  "streamUrl": "http://162.244.80.118:4900/stream.mp3?ver=682776",
+  "website": "http://fm100pakistan.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm100.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 15,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.244.80.118:4900/stream.mp3?ver=682776": 32
   },
-  {
-    "name": "Love-Islam-Radio",
-    "streamUrl": "https://stream-52.zeno.fm/f9h69cgbu68uv",
-    "website": "https://stream-52.zeno.fm/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "arabic",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 16,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://stream-52.zeno.fm/f9h69cgbu68uv": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Love-Islam-Radio",
+  "streamUrl": "https://stream-52.zeno.fm/f9h69cgbu68uv",
+  "website": "https://stream-52.zeno.fm/",
+  "logo": "",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "arabic",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 16,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://stream-52.zeno.fm/f9h69cgbu68uv": 128
   },
-  {
-    "name": "Radio Pakistan Peshawar MW",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8072/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 192,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 17,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8072/relay": 192
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Peshawar MW",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8072/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 192,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 17,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8072/relay": 192
   },
-  {
-    "name": "FM 93 Multan",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8032/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 18,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8032/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Multan",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8032/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 18,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8032/stream": 128
   },
-  {
-    "name": "FM 101 Karachi",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8048/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 19,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8048/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 101 Karachi",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8048/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 19,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8048/stream": 128
   },
-  {
-    "name": "Radio Pakistan Quetta MW",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8060/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "https://radio.gov.pk/site_logo.png",
-    "bitrate": 64,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 20,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8060/relay": 64
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Quetta MW",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8060/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 64,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 20,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8060/relay": 64
   },
-  {
-    "name": "FM 93 Faisalabad",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8022/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 21,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8022/relay": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Faisalabad",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8022/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 21,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8022/relay": 128
   },
-  {
-    "name": "Mera FM 107.4",
-    "streamUrl": "https://samaakhi107-itelservices.radioca.st/stream",
-    "website": "https://www.merafm.com/",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 22,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://samaakhi107-itelservices.radioca.st/stream": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Mera FM 107.4",
+  "streamUrl": "https://samaakhi107-itelservices.radioca.st/stream",
+  "website": "https://www.merafm.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/merafm.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 22,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://samaakhi107-itelservices.radioca.st/stream": 96
   },
-  {
-    "name": "fm.92",
-    "streamUrl": "http://s33.myradiostream.com:13872/listen.m4a",
-    "website": "",
-    "logo": "",
-    "bitrate": 32,
-    "codec": "AAC+",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 23,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://s33.myradiostream.com:13872/listen.m4a": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "fm.92",
+  "streamUrl": "http://s33.myradiostream.com:13872/listen.m4a",
+  "website": "",
+  "logo": "",
+  "bitrate": 32,
+  "codec": "AAC+",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 23,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://s33.myradiostream.com:13872/listen.m4a": 32
   },
-  {
-    "name": "FM 93 Karachi",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7022/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 24,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7022/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Karachi",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7022/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 24,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7022/stream": 128
   },
-  {
-    "name": "FM 93 Mianwali",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8028/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 25,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8028/relay": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Mianwali",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8028/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 25,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8028/relay": 128
   },
-  {
-    "name": "FM 101 Larkana",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8050/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 26,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8050/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 101 Larkana",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8050/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 26,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8050/stream": 128
   },
-  {
-    "name": "Radio One FM 91",
-    "streamUrl": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
-    "website": "https://fm91.com.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 27,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://cc.vmakerhost.com/proxy/karachi?mp=/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio One FM 91",
+  "streamUrl": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
+  "website": "https://fm91.com.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm91.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 27,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://cc.vmakerhost.com/proxy/karachi?mp=/stream": 128
   },
-  {
-    "name": "FM 100 Pakistan Jhelum",
-    "streamUrl": "http://162.244.80.118:4900/stream.mp3",
-    "website": "http://fm100pakistan.com/",
-    "logo": "",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "urdu/punjabi/seraiki",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 28,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.244.80.118:4900/stream.mp3": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 100 Pakistan Jhelum",
+  "streamUrl": "http://162.244.80.118:4900/stream.mp3",
+  "website": "http://fm100pakistan.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm100.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "urdu/punjabi/seraiki",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 28,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.244.80.118:4900/stream.mp3": 32
   },
-  {
-    "name": "FM 101 Mithi",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8052/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 29,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8052/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 101 Mithi",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8052/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 29,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8052/stream": 128
   },
-  {
-    "name": "Radio One FM 91 Gwadar",
-    "streamUrl": "http://cc.vmakerhost.com:8147/stream",
-    "website": "https://fm91.com.pk/",
-    "logo": "https://fm91.com.pk/wp-content/uploads/2021/10/site-logo-2.png",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 30,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://cc.vmakerhost.com:8147/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio One FM 91 Gwadar",
+  "streamUrl": "http://cc.vmakerhost.com:8147/stream",
+  "website": "https://fm91.com.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/fm91.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 30,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://cc.vmakerhost.com:8147/stream": 128
   },
-  {
-    "name": "Radio Pakistan Lahore",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
-    "website": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 31,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Lahore",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+  "website": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 31,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9": 128
   },
-  {
-    "name": "FM 93 Chitral",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8066/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 32,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8066/relay": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 93 Chitral",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8066/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 32,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8066/relay": 96
   },
-  {
-    "name": "Papa John's Pizza Pakistan",
-    "streamUrl": "http://162.252.85.85:7086/",
-    "website": "https://www/papajohns.com.pk",
-    "logo": "https://media.licdn.com/dms/image/C4D0BAQEI7mldY8HjDQ/company-logo_200_200/0/1646142095845/papajohnspk_logo?e=2147483647&v=beta&t=RFodNsVeiGcT4jU520HdsgjnHcfRiyJMk0WoLbBQ4XY",
-    "bitrate": 48,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 33,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://162.252.85.85:7086/": 48
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Papa John's Pizza Pakistan",
+  "streamUrl": "http://162.252.85.85:7086/",
+  "website": "https://www/papajohns.com.pk",
+  "logo": "",
+  "bitrate": 48,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 33,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://162.252.85.85:7086/": 48
   },
-  {
-    "name": "101peshawar",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
-    "website": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "pashto /urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 34,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "101peshawar",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+  "website": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "pashto /urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 34,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9": 96
   },
-  {
-    "name": "BAHAWAL PUR MW STATION",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
-    "website": "https://www.radio.gov.pk/live-streaming",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 35,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "BAHAWAL PUR MW STATION",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
+  "website": "https://www.radio.gov.pk/live-streaming",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 35,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4": 128
   },
-  {
-    "name": "All4Masti",
-    "streamUrl": "http://stream.zeno.fm/bahhkuge5zhvv",
-    "website": "https://all4masti.com/",
-    "logo": "https://listenonlineradio.com/wp-content/uploads/All4Masti.jpg",
-    "bitrate": 64,
-    "codec": "MP3",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 36,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://stream.zeno.fm/bahhkuge5zhvv": 64
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "All4Masti",
+  "streamUrl": "http://stream.zeno.fm/bahhkuge5zhvv",
+  "website": "https://all4masti.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/all4masti.png",
+  "bitrate": 64,
+  "codec": "MP3",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 36,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://stream.zeno.fm/bahhkuge5zhvv": 64
   },
-  {
-    "name": "Radio Pakistan Multan",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
-    "website": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 37,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Multan",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+  "website": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 37,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12": 96
   },
-  {
-    "name": "fm",
-    "streamUrl": "http://canada1.reliastream.com:8191/stream",
-    "website": "",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 38,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://canada1.reliastream.com:8191/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "fm",
+  "streamUrl": "http://canada1.reliastream.com:8191/stream",
+  "website": "",
+  "logo": "",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 38,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://canada1.reliastream.com:8191/stream": 128
   },
-  {
-    "name": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
-    "website": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 39,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+  "website": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 39,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12": 128
   },
-  {
-    "name": "live",
-    "streamUrl": "http://live.mp3quran.net:9752/",
-    "website": "",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 40,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://live.mp3quran.net:9752/": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "live",
+  "streamUrl": "http://live.mp3quran.net:9752/",
+  "website": "",
+  "logo": "",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 40,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://live.mp3quran.net:9752/": 128
   },
-  {
-    "name": "City FM 89",
-    "streamUrl": "https://radio.cityfm89.com/stream",
-    "website": "https://cityfm89.com/",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "AAC",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 41,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://radio.cityfm89.com/stream": 96
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "City FM 89",
+  "streamUrl": "https://radio.cityfm89.com/stream",
+  "website": "https://cityfm89.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/cityfm89.png",
+  "bitrate": 96,
+  "codec": "AAC",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 41,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://radio.cityfm89.com/stream": 96
   },
-  {
-    "name": "Mera FM 107.4 Lahore",
-    "streamUrl": "https://samaalhr107-itelservices.radioca.st/stream",
-    "website": "https://www.merafm.com/radio-stations/",
-    "logo": "",
-    "bitrate": 64,
-    "codec": "MP3",
-    "language": "urdu/punjabi/seraiki",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 42,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://samaalhr107-itelservices.radioca.st/stream": 64
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Mera FM 107.4 Lahore",
+  "streamUrl": "https://samaalhr107-itelservices.radioca.st/stream",
+  "website": "https://www.merafm.com/radio-stations/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/merafm.png",
+  "bitrate": 64,
+  "codec": "MP3",
+  "language": "urdu/punjabi/seraiki",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 42,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://samaalhr107-itelservices.radioca.st/stream": 64
   },
-  {
-    "name": "Radio Mirpur",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
-    "website": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
-    "logo": "",
-    "bitrate": 40,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 43,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9": 40
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Mirpur",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+  "website": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 40,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 43,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9": 40
   },
-  {
-    "name": "fm...",
-    "streamUrl": "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A",
-    "website": "",
-    "logo": "",
-    "bitrate": 59,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 44,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A": 59
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "fm...",
+  "streamUrl": "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A",
+  "website": "",
+  "logo": "",
+  "bitrate": 59,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 44,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A": 59
   },
-  {
-    "name": "Radio Pakistan WS",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
-    "website": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 45,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan WS",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+  "website": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 45,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12": 128
   },
-  {
-    "name": "AK radio Trarkhal",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
-    "website": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 46,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "AK radio Trarkhal",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+  "website": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 46,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9": 128
   },
-  {
-    "name": "FM 101 Sargodha",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8040/relay",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 47,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8040/relay": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 101 Sargodha",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8040/relay",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 47,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8040/relay": 128
   },
-  {
-    "name": "Shopen Anime Radio",
-    "streamUrl": "https://s97.radiolize.com:8040/radio.mp3",
-    "website": "https://shopen.pk/",
-    "logo": "https://myecomshop.imgix.net/store_16799/b542879182d332fe6628d9504fc1f66d.png?fit=clip&h=30&ixlib=php-1.2.1&q=75&auto=format",
-    "bitrate": 95,
-    "codec": "AAC",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 48,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://s97.radiolize.com:8040/radio.mp3": 95
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Shopen Anime Radio",
+  "streamUrl": "https://s97.radiolize.com:8040/radio.mp3",
+  "website": "https://shopen.pk/",
+  "logo": "",
+  "bitrate": 95,
+  "codec": "AAC",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 48,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://s97.radiolize.com:8040/radio.mp3": 95
   },
-  {
-    "name": "FM 101 Khairpur",
-    "streamUrl": "https://whmsonic.radio.gov.pk:8054/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 49,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:8054/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 101 Khairpur",
+  "streamUrl": "https://whmsonic.radio.gov.pk:8054/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 49,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:8054/stream": 128
   },
-  {
-    "name": "Hot fm Nawabshah",
-    "streamUrl": "https://stream.zeno.fm/t961q1d0vp6vv/",
-    "website": "http://zeno.fm/",
-    "logo": "",
-    "bitrate": 32,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 50,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://stream.zeno.fm/t961q1d0vp6vv/": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Hot fm Nawabshah",
+  "streamUrl": "https://stream.zeno.fm/t961q1d0vp6vv/",
+  "website": "http://zeno.fm/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/hotfm.png",
+  "bitrate": 32,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 50,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://stream.zeno.fm/t961q1d0vp6vv/": 32
   },
-  {
-    "name": "Highrise 24/7 Radio - PAKISTAN",
-    "streamUrl": "http://78.154.103.2:9326/stream",
-    "website": "",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 51,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://78.154.103.2:9326/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Highrise 24/7 Radio - PAKISTAN",
+  "streamUrl": "http://78.154.103.2:9326/stream",
+  "website": "",
+  "logo": "",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 51,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://78.154.103.2:9326/stream": 128
   },
-  {
-    "name": "Universal Health Radio (اردو)",
-    "streamUrl": "https://radio.universalhealthradio.org/uhr-ur.mp3",
-    "website": "https://universalhealthradio.org/",
-    "logo": "https://universalhealthradio.org/favicon.png",
-    "bitrate": 48,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 52,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://radio.universalhealthradio.org/uhr-ur.mp3": 48
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Universal Health Radio (اردو)",
+  "streamUrl": "https://radio.universalhealthradio.org/uhr-ur.mp3",
+  "website": "https://universalhealthradio.org/",
+  "logo": "",
+  "bitrate": 48,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 52,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://radio.universalhealthradio.org/uhr-ur.mp3": 48
   },
-  {
-    "name": "Sindh fm",
-    "streamUrl": "http://167.114.131.90:2758/",
-    "website": "http://167.114.131.90:2758/",
-    "logo": "http://167.114.131.90:2758",
-    "bitrate": 32,
-    "codec": "AAC+",
-    "language": "english",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 53,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://167.114.131.90:2758/": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Sindh fm",
+  "streamUrl": "http://167.114.131.90:2758/",
+  "website": "http://167.114.131.90:2758/",
+  "logo": "",
+  "bitrate": 32,
+  "codec": "AAC+",
+  "language": "english",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 53,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://167.114.131.90:2758/": 32
   },
-  {
-    "name": "FM 101 Islamabad",
-    "streamUrl": "https://whmsonic.radio.gov.pk:7008/stream",
-    "website": "https://radio.gov.pk/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Pakistan",
-    "category": "pakistan",
-    "order": 54,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://whmsonic.radio.gov.pk:7008/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "FM 101 Islamabad",
+  "streamUrl": "https://whmsonic.radio.gov.pk:7008/stream",
+  "website": "https://radio.gov.pk/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Pakistan",
+  "category": "pakistan",
+  "order": 54,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://whmsonic.radio.gov.pk:7008/stream": 128
   },
-  {
-    "name": "Suno FM",
-    "streamUrl": "http://51.255.235.165:5476/",
-    "website": "https://suno1024.com/",
-    "logo": "",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "hindi",
-    "country": "United Arab Emirates",
-    "category": "world",
-    "order": 55,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://51.255.235.165:5476/": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Suno FM",
+  "streamUrl": "http://51.255.235.165:5476/",
+  "website": "https://suno1024.com/",
+  "logo": "",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "hindi",
+  "country": "United Arab Emirates",
+  "category": "world",
+  "order": 55,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://51.255.235.165:5476/": 128
   },
-  {
-    "name": "Radio Pakistan Toronto",
-    "streamUrl": "https://s3.radio.co/s3b10a57ef/listen",
-    "website": "https://www.radiopakistanfm.com/",
-    "logo": "https://www.radiopakistanfm.com/favicon.ico",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "Canada",
-    "category": "world",
-    "order": 56,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://s3.radio.co/s3b10a57ef/listen": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pakistan Toronto",
+  "streamUrl": "https://s3.radio.co/s3b10a57ef/listen",
+  "website": "https://www.radiopakistanfm.com/",
+  "logo": "",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "Canada",
+  "category": "world",
+  "order": 56,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://s3.radio.co/s3b10a57ef/listen": 128
   },
-  {
-    "name": "Radio Pak Filmi",
-    "streamUrl": "http://s17.ssl-stream.com:8214/stream",
-    "website": "http://pakfilmi.com/",
-    "logo": "https://hpanel.hostinger.com/favicons/hostinger.png",
-    "bitrate": 128,
-    "codec": "MP3",
-    "language": "urdu",
-    "country": "United States",
-    "category": "world",
-    "order": 57,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://s17.ssl-stream.com:8214/stream": 128
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Pak Filmi",
+  "streamUrl": "http://s17.ssl-stream.com:8214/stream",
+  "website": "http://pakfilmi.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pakfilmi.png",
+  "bitrate": 128,
+  "codec": "MP3",
+  "language": "urdu",
+  "country": "United States",
+  "category": "world",
+  "order": 57,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://s17.ssl-stream.com:8214/stream": 128
   },
-  {
-    "name": "Lyca Radio 1458",
-    "streamUrl": "http://ads-direct.sharp-stream.com/1458.mp3",
-    "website": "https://www.lycaradio.com/",
-    "logo": "https://www.lycaradio.com/wp-content/uploads/2021/06/favicon-01-150x150.png",
-    "bitrate": 192,
-    "codec": "MP3",
-    "language": "english",
-    "country": "United Kingdom",
-    "category": "world",
-    "order": 58,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://ads-direct.sharp-stream.com/1458.mp3": 192
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Lyca Radio 1458",
+  "streamUrl": "http://ads-direct.sharp-stream.com/1458.mp3",
+  "website": "https://www.lycaradio.com/",
+  "logo": "",
+  "bitrate": 192,
+  "codec": "MP3",
+  "language": "english",
+  "country": "United Kingdom",
+  "category": "world",
+  "order": 58,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://ads-direct.sharp-stream.com/1458.mp3": 192
   },
-  {
-    "name": "Sangeet Radio Houston",
-    "streamUrl": "https://ice8.securenetsystems.net/SGTRADIO",
-    "website": "https://sangeetradio.com/",
-    "logo": "https://i0.wp.com/sangeetradio.com/wp-content/uploads/2020/05/cropped-512x512-1.png?fit=180%2c180&#038;ssl=1",
-    "bitrate": 32,
-    "codec": "AAC+",
-    "language": "english",
-    "country": "United States",
-    "category": "world",
-    "order": 59,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "https://ice8.securenetsystems.net/SGTRADIO": 32
-    },
-    "mirrorBitrates": []
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Sangeet Radio Houston",
+  "streamUrl": "https://ice8.securenetsystems.net/SGTRADIO",
+  "website": "https://sangeetradio.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/sangeet.png",
+  "bitrate": 32,
+  "codec": "AAC+",
+  "language": "english",
+  "country": "United States",
+  "category": "world",
+  "order": 59,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "https://ice8.securenetsystems.net/SGTRADIO": 32
   },
-  {
-    "name": "Radio Punjabi USA",
-    "streamUrl": "http://198.178.123.5:7016/;stream.mp3",
-    "website": "http://punjabiradiousa.com/",
-    "logo": "",
-    "bitrate": 96,
-    "codec": "MP3",
-    "language": "punjabi",
-    "country": "The United States Of America",
-    "category": "world",
-    "order": 60,
-    "active": true,
-    "mirrors": [],
-    "urlBitrates": {
-      "http://198.178.123.5:7016/;stream.mp3": 96
-    },
-    "mirrorBitrates": []
-  }
+  "mirrorBitrates": []
+ },
+ {
+  "name": "Radio Punjabi USA",
+  "streamUrl": "http://198.178.123.5:7016/;stream.mp3",
+  "website": "http://punjabiradiousa.com/",
+  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/punjabi.png",
+  "bitrate": 96,
+  "codec": "MP3",
+  "language": "punjabi",
+  "country": "The United States Of America",
+  "category": "world",
+  "order": 60,
+  "active": true,
+  "mirrors": [],
+  "urlBitrates": {
+   "http://198.178.123.5:7016/;stream.mp3": 96
+  },
+  "mirrorBitrates": []
+ }
 ]
