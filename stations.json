@@ -108,7 +108,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
+  "name": "Radio Pakistan Lahore News and Current Affairs AM 1332 kHz",
   "streamUrl": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
   "website": "https://radio.gov.pk/",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
@@ -180,7 +180,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Radio Pakistan Hyderabad MW 1008 KHz",
+  "name": "Radio Pakistan Hyderabad MW 1008 kHz",
   "streamUrl": "https://whmsonic.radio.gov.pk:8042/stream",
   "website": "https://radio.gov.pk/",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
@@ -198,7 +198,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "HOT FM Karachi",
+  "name": "Hot FM Karachi",
   "streamUrl": "http://172.93.237.106:8000/",
   "website": "http://www.hotfm.com.pk/home.php",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/hotfm.png",
@@ -270,7 +270,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Love-Islam-Radio",
+  "name": "Love Islam Radio",
   "streamUrl": "https://stream-52.zeno.fm/f9h69cgbu68uv",
   "website": "https://stream-52.zeno.fm/",
   "logo": "",
@@ -396,24 +396,6 @@
   "mirrorBitrates": []
  },
  {
-  "name": "fm.92",
-  "streamUrl": "http://s33.myradiostream.com:13872/listen.m4a",
-  "website": "",
-  "logo": "",
-  "bitrate": 32,
-  "codec": "AAC+",
-  "language": "urdu",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 23,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "http://s33.myradiostream.com:13872/listen.m4a": 32
-  },
-  "mirrorBitrates": []
- },
- {
   "name": "FM 93 Karachi",
   "streamUrl": "https://whmsonic.radio.gov.pk:7022/stream",
   "website": "https://radio.gov.pk/",
@@ -423,7 +405,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 24,
+  "order": 23,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -441,7 +423,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 25,
+  "order": 24,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -459,7 +441,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 26,
+  "order": 25,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -477,7 +459,7 @@
   "language": "english",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 27,
+  "order": 26,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -495,7 +477,7 @@
   "language": "urdu/punjabi/seraiki",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 28,
+  "order": 27,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -513,7 +495,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 29,
+  "order": 28,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -531,7 +513,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 30,
+  "order": 29,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -549,7 +531,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 31,
+  "order": 30,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -567,7 +549,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 32,
+  "order": 31,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -576,25 +558,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Papa John's Pizza Pakistan",
-  "streamUrl": "http://162.252.85.85:7086/",
-  "website": "https://www/papajohns.com.pk",
-  "logo": "",
-  "bitrate": 48,
-  "codec": "MP3",
-  "language": "english",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 33,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "http://162.252.85.85:7086/": 48
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "101peshawar",
+  "name": "FM 101 Peshawar",
   "streamUrl": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
   "website": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
@@ -603,7 +567,7 @@
   "language": "pashto /urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 34,
+  "order": 32,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -612,7 +576,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "BAHAWAL PUR MW STATION",
+  "name": "Radio Pakistan Bahawalpur MW",
   "streamUrl": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
   "website": "https://www.radio.gov.pk/live-streaming",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
@@ -621,7 +585,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 35,
+  "order": 33,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -639,7 +603,7 @@
   "language": "english",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 36,
+  "order": 34,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -657,7 +621,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 37,
+  "order": 35,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -666,25 +630,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "fm",
-  "streamUrl": "http://canada1.reliastream.com:8191/stream",
-  "website": "",
-  "logo": "",
-  "bitrate": 128,
-  "codec": "MP3",
-  "language": "urdu",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 38,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "http://canada1.reliastream.com:8191/stream": 128
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
+  "name": "Saut-ul-Quran FM 93.4",
   "streamUrl": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
   "website": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
@@ -693,7 +639,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 39,
+  "order": 36,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -702,7 +648,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "live",
+  "name": "MP3Quran Radio",
   "streamUrl": "http://live.mp3quran.net:9752/",
   "website": "",
   "logo": "",
@@ -711,7 +657,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 40,
+  "order": 37,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -729,7 +675,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 41,
+  "order": 38,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -747,7 +693,7 @@
   "language": "urdu/punjabi/seraiki",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 42,
+  "order": 39,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -765,7 +711,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 43,
+  "order": 40,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -774,43 +720,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "fm...",
-  "streamUrl": "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A",
-  "website": "",
-  "logo": "",
-  "bitrate": 59,
-  "codec": "MP3",
-  "language": "urdu",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 44,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A": 59
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "Radio Pakistan WS",
-  "streamUrl": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
-  "website": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
-  "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
-  "bitrate": 128,
-  "codec": "MP3",
-  "language": "urdu",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 45,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12": 128
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "AK radio Trarkhal",
+  "name": "AK Radio Trarkhal",
   "streamUrl": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
   "website": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/pbc.png",
@@ -819,7 +729,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 46,
+  "order": 41,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -837,29 +747,11 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 47,
+  "order": 42,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
    "https://whmsonic.radio.gov.pk:8040/relay": 128
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "Shopen Anime Radio",
-  "streamUrl": "https://s97.radiolize.com:8040/radio.mp3",
-  "website": "https://shopen.pk/",
-  "logo": "",
-  "bitrate": 95,
-  "codec": "AAC",
-  "language": "urdu",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 48,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "https://s97.radiolize.com:8040/radio.mp3": 95
   },
   "mirrorBitrates": []
  },
@@ -873,7 +765,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 49,
+  "order": 43,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -882,7 +774,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Hot fm Nawabshah",
+  "name": "Hot FM Nawabshah",
   "streamUrl": "https://stream.zeno.fm/t961q1d0vp6vv/",
   "website": "http://zeno.fm/",
   "logo": "https://raw.githubusercontent.com/nabeelappsavvy/pakistan-radio-stations/main/logos/hotfm.png",
@@ -891,29 +783,11 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 50,
+  "order": 44,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
    "https://stream.zeno.fm/t961q1d0vp6vv/": 32
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "Highrise 24/7 Radio - PAKISTAN",
-  "streamUrl": "http://78.154.103.2:9326/stream",
-  "website": "",
-  "logo": "",
-  "bitrate": 128,
-  "codec": "MP3",
-  "language": "urdu",
-  "country": "Pakistan",
-  "category": "pakistan",
-  "order": 51,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "http://78.154.103.2:9326/stream": 128
   },
   "mirrorBitrates": []
  },
@@ -927,7 +801,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 52,
+  "order": 45,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -936,7 +810,7 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Sindh fm",
+  "name": "Sindh FM",
   "streamUrl": "http://167.114.131.90:2758/",
   "website": "http://167.114.131.90:2758/",
   "logo": "",
@@ -945,7 +819,7 @@
   "language": "english",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 53,
+  "order": 46,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -963,7 +837,7 @@
   "language": "urdu",
   "country": "Pakistan",
   "category": "pakistan",
-  "order": 54,
+  "order": 47,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -981,7 +855,7 @@
   "language": "hindi",
   "country": "United Arab Emirates",
   "category": "world",
-  "order": 55,
+  "order": 48,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -999,7 +873,7 @@
   "language": "urdu",
   "country": "Canada",
   "category": "world",
-  "order": 56,
+  "order": 49,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -1017,7 +891,7 @@
   "language": "urdu",
   "country": "United States",
   "category": "world",
-  "order": 57,
+  "order": 50,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -1035,7 +909,7 @@
   "language": "english",
   "country": "United Kingdom",
   "category": "world",
-  "order": 58,
+  "order": 51,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -1053,7 +927,7 @@
   "language": "english",
   "country": "United States",
   "category": "world",
-  "order": 59,
+  "order": 52,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
@@ -1071,7 +945,7 @@
   "language": "punjabi",
   "country": "The United States Of America",
   "category": "world",
-  "order": 60,
+  "order": 53,
   "active": true,
   "mirrors": [],
   "urlBitrates": {
